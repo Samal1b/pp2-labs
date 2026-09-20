@@ -1,0 +1,10 @@
+#here is a Person class that stores a person's name and prints it
+class Person:
+    def __init__(self, fname, lname):
+        self.firstname = fname
+        self.lastname = lname
+
+    def printname(self):
+        print(self.firstname, self.lastname)
+x = Person("John", "Doe")
+x.printname()
