@@ -1,0 +1,10 @@
+[
+    {
+        "name": "samal",
+        "email": "test@gmail.com",
+        "birthday": "2005-03-07",
+        "group": "family",
+        "phone": null,
+        "phone_type": null
+    }
+]
